@@ -16,6 +16,5 @@ public class MyClass {
      }
 
      System.out.println(Math.round(sum/count));
-     System.out.println(sum/count);
     }
 }
